@@ -1,1 +1,2 @@
-# INFR-DSA-2024
+# Data Structures and Algorithms
+
